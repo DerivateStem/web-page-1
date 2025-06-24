@@ -361,13 +361,10 @@
 
     }
 
-
     button:hover{
         background-color: rgb(255, 217, 0);
         cursor: pointer;
     }
-
-
 
     #News{
         display: flex;
@@ -415,7 +412,6 @@
     .iconos i {
         transition: color 0.3s ease, transform 0.3s ease; /* Suaviza la animación */
     }
-
     .iconos a:hover i {
         color: rgb(255, 217, 0); /* Cambia de color al pasar el mouse */
         transform: scale(1.2); /* Aumenta ligeramente el tamaño */
